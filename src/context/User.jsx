@@ -56,7 +56,6 @@ function UserContextProvider({ children }) {
         localStorage.setItem("user", JSON.stringify(userList[userList.indexOf(getUser[0])]))
         localStorage.setItem("userList", JSON.stringify(userList))
         navigate("/")
-        calcTotalFavs()
       } else {
         alert("Şifreniz yanlış")
       }
