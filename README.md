@@ -3,6 +3,12 @@
 ## Projenin Amacı
 React-Router-Dom ve Context API kullanımını kavramaktır.
 
+## Projenin canlıya alınmış hali : 
+
+```
+https://bs-react-e-ticaret.netlify.app/
+```
+
 ## Projeyi kurmak için : 
 ```
 npm i
